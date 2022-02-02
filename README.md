@@ -1,1 +1,1 @@
-# template-nextjs-dj_events_frontend
+# template-nextjs-dj_events
